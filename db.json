@@ -18,23 +18,6 @@
             * React.js (or comparable Single-Page application framework) experience"
         },
         {
-            "name": "DevOps Software Engineer 3",
-            "requirements": "* Excellent Linux administration skills
-            * PHP Web server experience (NGINX preferable, Apache useful)
-            * Some database admin experience (MySQL or equivalent)
-            * Experience with cloud technologies AWS/Open stack
-            * Networking (DNS, TCP/IP, SSL, DHCP, Load balancing)
-            * Programming/scripting (Java, Perl, Ruby, C#, and/or PHP)
-            * Developing and deploying applications on Docker and/or other container based platforms
-            * Experience managing container systems with Kubernetes and/or other container control planes
-            * Previous experience with CI/DevOps tools platforms (i.e. Jenkins, Chef, Puppet, Ansible)
-            * Good Git skills (comfortable preparing release branches)
-            * Previous PHP deployment automation desirable
-            * Some experience/knowledge in monitoring tools
-            * Strong collaboration, written and verbal skills
-            * Strong ability to communicate effectively in an international environment"
-        },
-        {
             "name": "Front End Engineer",
             "description": "We build the front end components of our Web app and use established practices to ensure high quality code.
             We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
@@ -68,36 +51,6 @@
             * You value simplicity and strive to eliminate unnecessary complexity
             * You have at least 5 years of professional programming experience",
             "requirements": ""
-        },
-        {
-            "name": "Full-Stack Engineer",
-            "description": "This position will be responsible for implementing complex, multi-tier distributed
-            software systems throughout all phases of the software development life cycle while collaborating effectively with other team members.
-            ",
-            "requirements": "* Understanding of object-oriented design methodologies and application development in Java, Spring and Spring Boot
-            * Understanding of Web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
-            * Basic knowledge of Agile/Scrum methodologies, continuous integration and deployment
-            * 2+ years of Full-Stack software development experience in an enterprise environment
-            * 2+ years experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
-            * Experience working with Relational Database Management Systems such as PostgreSQL
-            * Experience in building modern distributed applications using a micro services framework
-            * Experience with various UI architectures"
-        },
-        {
-            "name": "Senior Full-Stack Engineer",
-            "description": "This position will be responsible for defining, designing, and implementing complex, multi-tier distributed software systems throughout all phases of the software development life-cycle while providing technical oversight and guidance to team members.
-            ",
-            "requirements": "* Develop clear, well-communicated, thoroughly tested, complete code for complex product features or sub-systems
-            * Advanced understanding of object-oriented design methodology and application development in Java, Spring and Spring Boot
-            * Advanced understanding of web technologies like HTML5, CSS3, JavaScript, Ajax, Node.js and AngularJS 2+
-            * Strong knowledge of Agile/Scrum methodologies, continuous integration and deployment
-            * Possess creative problem solving skills and excellent troubleshooting/debugging skills
-            * 5+ years of Full-Stack software development experience in an enterprise environment
-            * Extensive experience designing, and developing object oriented software utilizing Java, Spring, AngularJS and JavaScript
-            * Experience working with Relational Database Management Systems such as PostgreSQL
-            * Experience in building modern distributed applications using a micro services framework
-            * Broad experience with various UI architectures with the skills to extend a framework beyond what's provided out of the box
-            "
         },
         {
             "name": "Full-Stack JavaScript-Java Engineer",
