@@ -3,118 +3,42 @@
         {
             "name": "DevOps Software Engineer 1",
             "responsibilities": "",
-            "requirements": "* Minimum of 3 years of professional experience developing in the JavaScript ecosystem (Node.js, Express)
-            * Experience as a Full-Stack Developer, with a Back End + DevOps specialty (SQL/NoSQL/Elasticsearch => Node => React.js[ideal, not required])
-            * DevOps experience (Docker, AWS, Microservices) must be able to launch and maintain new services
-            * Senior level application knowledge, with an experience building, growing and maintaining a variety of different products
-            * Ability and interest in learning new technologies quickly
-            * Broad experience developing a range of several professional products that solve different problems, not just many years on product or concentrated in one problem space
-            * Self-motivated and able to effectively deliver on loose requirements, and flexible with changing requirements
-            * Strong communication skills, to work effectively on a remote team
-            * Collaborative and responsive to constructive feedback Nice to Haves
-            * TypeScript experience
-            * Machine Learning experience
-            * Terraform/Packer/Nomad experience
-            * React.js (or comparable Single-Page application framework) experience"
+            "requirements": "* Minimum of 3 years of professional experience developing in the JavaScript ecosystem (Node.js, Express) * Experience as a Full-Stack Developer, with a Back End + DevOps specialty (SQL/NoSQL/Elasticsearch => Node => React.js[ideal, not required]) * DevOps experience (Docker, AWS, Microservices) must be able to launch and maintain new services * Senior level application knowledge, with an experience building, growing and maintaining a variety of different products * Ability and interest in learning new technologies quickly * Broad experience developing a range of several professional products that solve different problems, not just many years on product or concentrated in one problem space * Self-motivated and able to effectively deliver on loose requirements, and flexible with changing requirements * Strong communication skills, to work effectively on a remote team * Collaborative and responsive to constructive feedback Nice to Haves * TypeScript experience * Machine Learning experience * Terraform/Packer/Nomad experience * React.js (or comparable Single-Page application framework) experience"
         },
         {
             "name": "Front End Engineer",
-            "description": "We build the front end components of our Web app and use established practices to ensure high quality code.
-            We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes.
-            Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers.
-            ",
-            "responsabilities": "* Collaborate with Product Managers to iterate on the design and implementation of our product
-            * Build efficient and reusable front-end systems and abstractions
-            * Find and address performance issues
-            * Participate in design and code reviews
-            * Maintain high code coverage via unit tests and acceptance tests",
-            "requirements":"* Strong knowledge of JavaScript
-            * Experience with modern JavaScript libraries and tooling
-            * Knowledge of HTML, CSS, and related web technologies
-            * Strong Computer Science fundamentals
-            * Awareness of cross-browser compatibility issues and client-side performance considerations",
-
+            "description": "We build the front end components of our Web app and use established practices to ensure high quality code. We make the most of modern tools like React.js, Redux, and Sass, and we ensure our UIs work well on all screen sizes. Some of us specialize in CSS, some in Front End infrastructure, but all of us are JavaScript proficient and Full-Stack engineers. ",
+            "responsabilities": "* Collaborate with Product Managers to iterate on the design and implementation of our product * Build efficient and reusable front-end systems and abstractions * Find and address performance issues * Participate in design and code reviews * Maintain high code coverage via unit tests and acceptance tests",
+            "requirements":"* Strong knowledge of JavaScript * Experience with modern JavaScript libraries and tooling * Knowledge of HTML, CSS, and related web technologies * Strong Computer Science fundamentals * Awareness of cross-browser compatibility issues and client-side performance considerations",
         },
         {
             "name": "Back End Engineer",
-            "description": "We are converting to a microservices based architecture from a single API. Our new architecture Python and Java on the Back End.
-            As a Back End engineer you will craft new functionality with a dedicated team of co-workers that will enrich our members and our partners.
-            As our business continues its rapid growth, you will help ensure our software is positioned to harness and accelerate our marketplace.
-            You will help design APIs and architecture that your colleagues will be delighted to use.
-            You will be involved in the planning of features at the beginning and own them through deployment and monitoring.
-            ",
-            "about-you": "* You are passionate about your craft and want to be surrounded by like-minded individuals
-            * You like to ship software early and often
-            * You care about selecting the right tool for the right job
-            * You design APIs and services that make difficult problems seem easy
-            * You collaborate well with others but are excited to own a big feature
-            * You value simplicity and strive to eliminate unnecessary complexity
-            * You have at least 5 years of professional programming experience",
+            "description": "We are converting to a microservices based architecture from a single API. Our new architecture Python and Java on the Back End. As a Back End engineer you will craft new functionality with a dedicated team of co-workers that will enrich our members and our partners. As our business continues its rapid growth, you will help ensure our software is positioned to harness and accelerate our marketplace. You will help design APIs and architecture that your colleagues will be delighted to use. You will be involved in the planning of features at the beginning and own them through deployment and monitoring. ",
+            "about-you": "* You are passionate about your craft and want to be surrounded by like-minded individuals * You like to ship software early and often * You care about selecting the right tool for the right job * You design APIs and services that make difficult problems seem easy * You collaborate well with others but are excited to own a big feature * You value simplicity and strive to eliminate unnecessary complexity * You have at least 5 years of professional programming experience",
             "requirements": ""
         },
         {
             "name": "Full-Stack JavaScript-Java Engineer",
-            "requirements": "* Core Java Development
-            * JavaEE APIs
-            * JavaBeans
-            * Spring
-            * JSP
-            * JavaScript
-            * SQL
-            * PL-SQL
-            * Web Services development"
+            "requirements": "* Core Java Development * JavaEE APIs * JavaBeans * Spring * JSP * JavaScript * SQL * PL-SQL * Web Services development"
         },
         {
             "name": "Software Test Engineer 1",
-            "requirements": "* Experience designing and maintaining test automation framework for large scale applications
-            * Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework
-            * Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium)
-            * Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving
-            "
+            "requirements": "* Experience designing and maintaining test automation framework for large scale applications * Experience designing and maintaining API or Web services (Rest or Soap) test automation suite/framework * Knowledge of current test automation tools and frameworks (i.e. TestNG, JUnit, Mocha, WebDriverIO, Selenium) * Computer science fundamentals in object-oriented design, data structures, algorithms, and problem solving "
         },
         {
             "name": "Software Test Engineer 2",
-            "description": "* We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API
-            * Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed applications
-            ",
-            "about-you": "
-            * You want to be part of a cross-functional team. You're curious, passionate, and enjoy tackling hard problems. You love technology and enjoy finding better ways to do things. You want to share what you discover and feel energized when you can learn from people around you. When you build software, you consider how people will use it from all angles. You take pride in carefully honing your work until it feels reliable and effortless to use
-            * You've been a QA Automation Engineer for at least 3 years, have made significant contributions to projects you've been a part of, and want to engineer at a global scale
-            * 3 years of experience in automated testing of back end service and RESTful API
-            * 3 years of experience in automation framework like BDD (Cucumber, Python/Java) and Selenium
-            * Strong working knowledge in Java, Spring framework and JSON
-            * 3 years of working experience with SQL databases like PostgreSQL
-            * 2 years of working experience in Performance testing and its analysis of back end services and APIs
-            * Ability to break down use cases into test cases and manage test suite
-            * Working experience with Git and Jenkins/TeamCity is a plus",
+            "description": "* We build core services on the JVM using Java and Spring framework with Front End developed in AngularJS 4 and Typescript. Web Back Ends and simple middleware services are often made with Spring Boot API * Data is stored in PostgreSQL and in MS SQL Server. We run a Mesos cluster for large-scale, distributed applications ",
+            "about-you": " * You want to be part of a cross-functional team. You're curious, passionate, and enjoy tackling hard problems. You love technology and enjoy finding better ways to do things. You want to share what you discover and feel energized when you can learn from people around you. When you build software, you consider how people will use it from all angles. You take pride in carefully honing your work until it feels reliable and effortless to use * You've been a QA Automation Engineer for at least 3 years, have made significant contributions to projects you've been a part of, and want to engineer at a global scale * 3 years of experience in automated testing of back end service and RESTful API * 3 years of experience in automation framework like BDD (Cucumber, Python/Java) and Selenium * Strong working knowledge in Java, Spring framework and JSON * 3 years of working experience with SQL databases like PostgreSQL * 2 years of working experience in Performance testing and its analysis of back end services and APIs * Ability to break down use cases into test cases and manage test suite * Working experience with Git and Jenkins/TeamCity is a plus",
             "requirements":""
         },
         {
             "name": "Python Engineer 1",
-            "requirements": "* You have a minimum of 2 years professional software experience
-            * Experience with Python and Django
-            * You have experience with AWS technologies
-            * Experience with numeric computation as SciPy
-            * Data analysis with PANDAS
-            * Deep learning framework with PyTorch
-            * Experience with continuous integration (Jenkins)
-            * QA tools techniques and bug tracking system
-            * Flawless communication skills"
+            "requirements": "* You have a minimum of 2 years professional software experience * Experience with Python and Django * You have experience with AWS technologies * Experience with numeric computation as SciPy * Data analysis with PANDAS * Deep learning framework with PyTorch * Experience with continuous integration (Jenkins) * QA tools techniques and bug tracking system * Flawless communication skills"
         },
         {
             "name": "Python Engineer 2",
-            "description": "We're looking for Software Engineers to help us make our already awesome platform even better.
-            You will join our Back End Development team building new features into our RESTful API written in Python 2.7.
-            This API is used by our own internal React.js websites as well as serving as the primary interface for our customer's own integrations.",
-            "requirements": "* Software Developer (3 - 6 years preferred)
-            * Critical thinking
-            * Motivation to write and maintain quality code
-            * Strong communication skills
-            * Python, Django, MySQL, Git
-            * Familiarity working on distributed applications
-            * Familiarity with RESTful API design
-            * e-Commerce experience
-            * Experience working on SaaS products"
+            "description": "We're looking for Software Engineers to help us make our already awesome platform even better. You will join our Back End Development team building new features into our RESTful API written in Python 2.7. This API is used by our own internal React.js websites as well as serving as the primary interface for our customer's own integrations.",
+            "requirements": "* Software Developer (3 - 6 years preferred) * Critical thinking * Motivation to write and maintain quality code * Strong communication skills * Python, Django, MySQL, Git * Familiarity working on distributed applications * Familiarity with RESTful API design * e-Commerce experience * Experience working on SaaS products"
         }
     ]
 }
